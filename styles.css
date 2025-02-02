@@ -7,12 +7,13 @@ body {
 }
 
 header {
-    background-color: #6A1B9A; /* Morado */
-    padding: 20px;
+    background-image: url('WhatsApp Image 2025-02-02 at 21.03.10.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 20px;
     text-align: center;
     color: white;
 }
-
 nav ul {
     list-style: none;
     padding: 0;
