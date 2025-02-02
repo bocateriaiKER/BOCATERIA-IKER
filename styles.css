@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F8E71C; /* Amarillo */
+    color: #4A148C; /* Morado oscuro */
+}
+
+header {
+    background-color: #6A1B9A; /* Morado */
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFF;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #6A1B9A;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #6A1B9A;
+    color: white;
+    margin-top: 20px;
+}
